@@ -36,6 +36,8 @@ Manage appointments, patients, and reminders in a single dashboard view.
 Schedule new appointments with patient details and automated reminders.  
 <img width="2554" height="1440" alt="Screenshot From 2025-10-02 10-57-59" src="https://github.com/user-attachments/assets/15c0825c-bc59-42f6-bbb3-443127873265" />
 
+<img width="2549" height="1271" alt="Screenshot From 2025-10-01 18-23-00" src="https://github.com/user-attachments/assets/12714204-014f-449a-a598-6ec6131b9e43" />
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -51,7 +53,7 @@ Schedule new appointments with patient details and automated reminders.
 ```bash
 # Clone repo
 git clone https://github.com/Abenezer-Fekadu/nextjs-patient-coordinator-ui.git
-cd patient-coordinator-ui
+cd nextjs-patient-coordinator-ui
 
 # Install dependencies
 npm install
@@ -59,4 +61,5 @@ npm install
 # Run development server
 npm run dev
   
+
 
