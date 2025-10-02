@@ -50,7 +50,7 @@ Schedule new appointments with patient details and automated reminders.
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/patient-coordinator-ui.git
+git clone https://github.com/Abenezer-Fekadu/nextjs-patient-coordinator-ui.git
 cd patient-coordinator-ui
 
 # Install dependencies
@@ -59,3 +59,4 @@ npm install
 # Run development server
 npm run dev
   
+
